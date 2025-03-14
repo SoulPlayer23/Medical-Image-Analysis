@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch
+torchvision
+torchaudio 
+transformers
+opencv-python-headless
+numpy
+matplotlib
+pandas
+scikit-learn
+requests
+tqdm
+kaggle
